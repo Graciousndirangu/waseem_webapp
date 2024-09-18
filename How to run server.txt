@@ -1,0 +1,5 @@
+ Open command prompt on current directory and type:
+python manage.py runserver
+
+Open Browseron link of:
+http://127.0.0.1:8000

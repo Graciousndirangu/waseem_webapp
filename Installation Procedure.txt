@@ -1,0 +1,4 @@
+Install Python 3.11.1  on path
+
+Open command prompt and type:
+pip install -r requirements.txt
